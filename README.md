@@ -22,7 +22,7 @@ _Collection of beautiful color gradients_
 
 ### [Huemint](https://huemint.com/)
 
-_create unique color schemes for your brand, website or graphic_
+_Create unique color schemes for your brand, website or graphic_
 
 ## FONTS AND TYPOGRAPHY TOOLS 🔠
 
