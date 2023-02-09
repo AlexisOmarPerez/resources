@@ -37,3 +37,35 @@ _Preview and choose the right type scale for your project_
 ### [Font Joy](https://fontjoy.com/)
 
 _Mix and match different fonts for the perfect pairing_
+
+## Stock Photos 📷
+
+### [Unplash](https://unsplash.com/)
+
+_Beautiful, free images and photos that you can download and use for any project_
+
+### [Pexels](https://www.pexels.com/)
+
+_Free stock photos & videos you can use everywhere_
+
+### [Stocksy](https://www.stocksy.com/)
+
+_Collection of premium and progressive stock photography_
+
+## Illustrations and Icons 🖼️
+
+### [Deseign stripe](https://designstripe.com/)
+
+_Create beautiful illustrations, no design skills needed_
+
+### [Drawkit](https://www.drawkit.com/)
+
+_Free and premium vector SVG illustrations for you to use on your next project_
+
+### [Heroicons](https://heroicons.com/)
+
+_Beautiful hand-crafted SVG icons_
+
+### [humaaans](https://www.humaaans.com/)
+
+_Mix-&-match illustrations of people with a design library_
